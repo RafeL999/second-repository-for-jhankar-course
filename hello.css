@@ -2,3 +2,8 @@ div{
     background-color: blueviolet;
     padding: 20px;
 }
+
+#okke{
+    background-color: aquamarine;
+    box-sizing: 10px solid;
+}
